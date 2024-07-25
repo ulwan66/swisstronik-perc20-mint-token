@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x6c34be1ec3f1d3a55d40cdedaeccd7772ac30d44
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/ulwan66/swisstronik-perc20-mint-token.git
 ```
 
 ```
@@ -33,7 +33,7 @@ npm install
 create .env file in root project
 
 ```bash
-PRIVATE_KEY="your private key"
+PRIVATE_KEY="a99a343b964580e8b199c7a86798201d4d746cf18296e444e754372ac80b962d"
 ```
 
 ### 4. Update Smart Contract (Skipp if you won't modify Token name)
@@ -75,8 +75,8 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [ulwan66](https://github.com/ulwan66)
+twitter : @NardeTesi
+telegram : @killwqn
 
 0xCd825ae0335190f4c8882DF16FB0577d478b3898
